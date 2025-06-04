@@ -1,4 +1,4 @@
-# Kush-Patel
+
 <h1 align="center">Hello! 👋 I'm Kush Patel</h1>
 <h3 align="center">🚀 I love building backend systems, and working with data</h3>
 

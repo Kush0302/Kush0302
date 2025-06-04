@@ -1,16 +1,50 @@
-## Hi there 👋
+# Kush-Patel
+<h1 align="center">Hello! 👋 I'm Kush Patel</h1>
+<h3 align="center">🚀 I love building backend systems, and working with data</h3>
 
-<!--
-**Kush0302/Kush0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 I'm an IT undergraduate from India, passionate about coding, learning, and building cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+- 🔭 I’m currently working on **Python-based backend tools**
+- 🌱 Learning **Python** and **ML**
+- 💬 Ask me about **Python**, **APIs**, or **Data Projects**
+- 📫 How to reach me: [kushwork03@gmail.com]
+  
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Working-blue.svg)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+### 🛠 Frameworks/Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A5699?style=flat&logo=seaborn&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kush0302&show_icons=true&theme=radical" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+- 📌 **[Weather API App](https://github.com/Kush0302/Weather-API-app)** - Real-time weather forecast using external API
+
+- 📌 **[Console-Based Login System with Random OTP Generator](https://github.com/Kush0302/OTP)** -String manipulation and random password generation.

@@ -47,4 +47,4 @@
 ### 🚀 Featured Projects
 - 📌 **[Weather API App](https://github.com/Kush0302/Weather-API-app)** - Real-time weather forecast using external API
 
-- 📌 **[Typing Speed Test (CLI-Based](https://github.com/Kush0302/typing_test)** - Built using Python to calculate WPM and accuracy with real-time input tracking and timing logic.
+- 📌 **[Typing Speed Test (CLI-Based)](https://github.com/Kush0302/typing_test)** - Built using Python to calculate WPM and accuracy with real-time input tracking and timing logic.

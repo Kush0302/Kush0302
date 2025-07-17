@@ -47,4 +47,4 @@
 ### 🚀 Featured Projects
 - 📌 **[Weather API App](https://github.com/Kush0302/Weather-API-app)** - Real-time weather forecast using external API
 
-- 📌 **[Personal-Finance-Tracker](https://github.com/Kush0302/Personal-Finance-Tracker)** -A simple Python-based command-line application to track personal income and expenses, which also includes basic data visualization using matplotlib and pandas.
+- 📌 **[Crop-Recommendation](https://github.com/Kush0302/Crop-Recommendation)** -A Python-based machine learning application that recommends suitable crops based on environmental conditions, featuring trained ML models and basic data analysis and visualization using pandas, matplotlib, and scikit-learn.

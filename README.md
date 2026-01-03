@@ -36,13 +36,8 @@
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kush0302&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
----
+
 
 

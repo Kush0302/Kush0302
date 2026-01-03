@@ -45,8 +45,4 @@
 
 ---
 
-### 🚀 Featured Projects
-- 📌 **[AI-Job-Tracker](https://github.com/Kush0302/AI-Job-Tracker)** - An AI-powered job tracking system built with Django, Django REST Framework, and React.
-The project allows users to manage job applications and get AI-driven feedback on resumes.
 
-- 📌 **[Crop-Recommendation](https://github.com/Kush0302/Crop-Recommendation)** -A Python-based machine learning application that recommends suitable crops based on environmental conditions, featuring trained ML models and basic data analysis and visualization using pandas, matplotlib, and scikit-learn.

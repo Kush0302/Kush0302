@@ -4,7 +4,7 @@
 
 ---
 
-🎯 I'm an IT undergraduate from India, passionate about coding, learning, and building cool projects.
+🎯 I'm a Software Engineer from India, passionate about coding, learning, and building cool projects.
 
 ### 💼 About Me
 - 🔭 I’m currently working on **Python-based backend tools**
